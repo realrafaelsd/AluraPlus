@@ -1,1 +1,2 @@
 # AluraPlus
+Criação do projeto da Home Page da AluraPlus com a utilização apenas de HTML e CSS.
